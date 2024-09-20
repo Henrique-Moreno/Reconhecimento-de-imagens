@@ -1,0 +1,4 @@
+train: 'C:/Users/Usuário/MeuGuru/reconhecimento-de-imagens/dataset/images'  # Caminho absoluto para as imagens de treinamento
+val: 'C:/Users/Usuário/MeuGuru/reconhecimento-de-imagens/dataset/images'    # Caminho absoluto para as imagens de validação
+nc: 3  # Número de classes 
+names: ['creme_de_leite', 'fosforo_fiat_lux_pinheiro', 'sabonete_em_barra_dove']  # Nome da classe
